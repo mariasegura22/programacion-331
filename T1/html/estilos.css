@@ -1,0 +1,49 @@
+body {
+	font-family: 'Arial', sans-serif;
+}
+
+table {
+    width: 800px;
+    height: 600px;
+    background: #eddbe2;
+    margin: auto;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.imagen-cabecera.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.imagen-cabecera.banner {
+    width: 500px;
+    height: 100px;
+}
+
+.imagen-cabecera { border-radius: 4px; }
+.imagen-central { width: 70%; }
+.aliniacion-l { text-align: left; }
+.aliniacion-c { text-align: center; }
+.aliniacion-r { text-align: right; }
+
+.fila-2 td {
+    padding: 10px 100px;
+}
+
+.fila-2 td a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #a32355;
+    font-weight: bold;
+}
+
+.imagen-global {
+    width: 90%;
+    height: 250px;
+    border-radius: 3px;
+}
+
+.fila-3x1 td {
+    width: 33.33%;
+}
